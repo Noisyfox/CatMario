@@ -1,0 +1,11 @@
+# generated files
+bin/
+gen/
+catmario.apk
+
+# Local configuration file (sdk path, etc)
+proguard.cfg
+project.properties
+.settings/
+.classpath
+.project
